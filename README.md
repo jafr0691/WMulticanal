@@ -92,4 +92,32 @@ Plugins wp Muestra un boton flotante en el front-end con los diferentes canales 
 
 
 
+**Boton flotante en el front end**
+>El texto del boton es editable y el texto mensaje tambien es editable.
+![WmBtnFlotante](https://user-images.githubusercontent.com/36554510/233499773-2a100247-e2e3-46a1-8c49-70c0225febcd.jpg)
+
+
+
+**Boton flontante con todos los canales**
+>Al darle click al boton flontante se muestra todas las opciones que son editables de cuales se quieren mostrar para llamar la atencion de cliente por donde se quiera comunicar con la empresa en este caso del agente.
+![WmBtnCanales](https://user-images.githubusercontent.com/36554510/233500128-ccdef7ba-2f1e-4a1b-a647-e4f952d627b9.jpg)
+
+
+
+**Formulario del boton flontante**
+>Al darle click en alguno de los canales que fueron configurados como skype. whatsapp, telegram, llamada, SMS y messenger que el cliente quiera usar para comunicase con la empresa, se le mostrara el formulario que ya fue editado con los datos que se quieren obtener del cliente al ser llenados se le activara el boton que al darle click sera dirigido por medio del canal que eligio con uno de los agentes que en ese momento este disponible.
+>En la imagen se muestra como ejemplo que el cliente elgio el canal por llamada al ser llenado el formualrio y darle click al boton automaticamente se le activara la llamada para con el agente de turno.
+![WmBtnForm](https://user-images.githubusercontent.com/36554510/233500559-56774952-60ea-4643-9949-a555acc24a9f.jpg)
+
+
+
+**Correo de Bienvenida que se le envia al cliente**
+>Un correo de ejemplo se muestra en la siguiente imagel a los clientes que se registran en el formulario externo o por medio del boton flotante
+![WmCorreoBienve](https://user-images.githubusercontent.com/36554510/233503740-6b649bc6-cbbe-4ce9-b2f8-304f1f944465.jpg)
+
+
+
+**Correo de notificacion que se le envia a los admin y agentes del sistema WMulticanal**
+>Correo con toda la informacion obtenida por medio del formulario y ubicacion del cliente todo se guarda en la base de datos y son notificados los administradores del sistema WMulticanal y al agente que por turno se le asigno el cliente,
+![WmCorreoNotifi](https://user-images.githubusercontent.com/36554510/233504224-10ab23ac-b02e-42d9-babc-493a302b71c9.jpg)
 
